@@ -1,6 +1,6 @@
 body {
-  background-color: lightblue;
-
-  /* leave it to hide the scrollbars */
+  background-color: white;
   overflow: hidden;
+  justify-content: center;
+  margin: 0;
 }
